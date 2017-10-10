@@ -28,3 +28,11 @@ ArmChair-https://www.assetstore.unity3d.com/en/#!/content/44819
 Sheild-https://www.assetstore.unity3d.com/en/#!/content/76967
 https://www.assetstore.unity3d.com/en/#!/content/74223
 
+Grease Gun
+https://www.turbosquid.com/3d-models/m3a1-gun-max/1115578
+
+MG42
+https://www.turbosquid.com/3d-models/free-mg-42-mg42-3d-model/531997
+
+Crossbow
+https://www.turbosquid.com/3d-models/crossbow-fbx-free/725224
